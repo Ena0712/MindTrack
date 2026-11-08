@@ -20,12 +20,12 @@
   --bg-gradient-start: #bc93cd;
   --bg-gradient-mid: #d5a4c8;
   --bg-gradient-end: #e79cbb;
-  --glass-bg: rgba(255, 255, 255, 0.23);
+  --glass-bg: rgba(255, 255, 255, 0.103);
   --glass-border: rgba(255, 255, 255, 0.162);
   --glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
   --text-primary: #ffffff;
-  --text-secondary: rgba(255, 255, 255, 0.7);
-  --text-muted: rgba(255, 255, 255, 0.4);
+  --text-secondary: rgba(255, 255, 255, 0.747);
+  --text-muted: rgba(255, 255, 255, 0.512);
   --radius-sm: 10px;
   --radius-md: 14px;
   --radius-lg: 22px;
