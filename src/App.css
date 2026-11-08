@@ -37,9 +37,9 @@
 }
 
 .header__icon {
-  font-size: 10rem;
+  font-size: 6rem;
   display: block;
-  padding:2rem;
+  padding:0.2rem;
   margin-bottom: 0.3rem;
   animation: pulse 3s ease-in-out infinite;
 }
