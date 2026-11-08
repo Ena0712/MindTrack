@@ -455,7 +455,7 @@
   padding: 0.7rem 1.6rem;
   border: 1px solid var(--glass-border);
   border-radius: var(--radius-md);
-  background: rgba(255, 255, 255, 0.04);
+  background: rgba(255, 255, 255, 0.163);
   color: var(--text-primary);
   cursor: pointer;
   font-family: inherit;
