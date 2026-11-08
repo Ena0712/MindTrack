@@ -39,9 +39,8 @@
 .header__icon {
   font-size: 6rem;
   display: block;
-  padding:0.2rem;
   margin-bottom: 0.3rem;
-  animation: pulse 3s ease-in-out infinite;
+  animation: pulse 2s ease-in-out infinite;
 }
 
 @keyframes pulse {
